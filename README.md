@@ -7,6 +7,8 @@ I have build the image classifier that trains the model for 4 classes.
 2. Cats
 3. Forests
 4. Birds
+
+
 At the end, i also found the probability to check model accuracy which shows 100% accurate results.
 
 For more information/query, you can contact at muhammad.aleem227@gmail.com
